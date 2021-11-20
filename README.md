@@ -19,5 +19,8 @@ HOW TO CONFIGURE BOT RIGHTS?
   allow all.
   ![image](https://user-images.githubusercontent.com/73419713/142716429-a0755dce-079e-47a8-a6bf-2fc5b6d64185.png)
   again allow all!
+  ![image](https://user-images.githubusercontent.com/73419713/142716555-be3ad462-5774-4a21-ad6e-3d5542ad29c6.png)
+  and save it.
 
-Open main.py using Python!
+Open main.py using Python.
+add the bot to the conversation and write /help
